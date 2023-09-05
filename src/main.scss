@@ -1,0 +1,27 @@
+$primary: #0066b0;
+$secondary: #223639;
+
+$dropdown-link-hover-color: #333;
+$dropdown-link-hover-bg: #aaa;
+
+$enable-rounded: false;
+$enable-shadows: false;
+
+@import "bootstrap/scss/bootstrap";
+
+* {
+  &:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+}
+
+a,
+a:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+.navbar-nav .dropdown-menu {
+  position: absolute;
+}

@@ -1,8 +1,7 @@
 <template>
   <div>
     <h1>Update TODO Item</h1>
-    <TodoForm :todo="todo" @save="update" @destroy="destroy"/>
-    
+    <TodoForm :todo="todo" @save="update" @destroy="destroy" :key="todo.id"/>
   </div>
 </template>
 <script setup>

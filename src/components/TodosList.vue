@@ -22,7 +22,6 @@ const emit = defineEmits(["paginate"]);
     <div class="list-group">
       <TodoListItem
         v-for="todo in todos"
-        href="#"
         :key="todo.id"
         :todo="todo"
       />

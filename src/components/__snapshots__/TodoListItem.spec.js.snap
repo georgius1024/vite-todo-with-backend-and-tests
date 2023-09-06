@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`TodoListItem > mounts without error 1`] = `"<a href=\\"/101\\" class=\\"list-group-item list-group-item-action\\">✓<span class=\\"ms-1\\">hello</span></a>"`;

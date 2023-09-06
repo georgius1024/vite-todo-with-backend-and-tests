@@ -1,0 +1,41 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`TodosList > mounts without error 1`] = `
+"<div data-v-e895cfd1=\\"\\">
+  <div data-v-e895cfd1=\\"\\" class=\\"list-group\\">
+    <router-link-stub data-v-e895cfd1=\\"\\" to=\\"/101\\" class=\\"list-group-item list-group-item-action\\"></router-link-stub>
+  </div>
+  <ul data-v-e895cfd1=\\"\\" class=\\"pagination mt-4\\">
+    <li data-v-e895cfd1=\\"\\" class=\\"page-item\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"page-item\\"><a data-v-e895cfd1=\\"\\" class=\\"page-link active\\" href=\\"javascript:void(0)\\">1</a></div>
+    </li>
+    <li data-v-e895cfd1=\\"\\" class=\\"page-item\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"page-item\\"><a data-v-e895cfd1=\\"\\" class=\\"page-link\\" href=\\"javascript:void(0)\\">2</a></div>
+    </li>
+    <li data-v-e895cfd1=\\"\\" class=\\"page-item\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"page-item\\"><a data-v-e895cfd1=\\"\\" class=\\"page-link\\" href=\\"javascript:void(0)\\">3</a></div>
+    </li>
+    <li data-v-e895cfd1=\\"\\" class=\\"page-item\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"page-item\\"><a data-v-e895cfd1=\\"\\" class=\\"page-link\\" href=\\"javascript:void(0)\\">4</a></div>
+    </li>
+    <li data-v-e895cfd1=\\"\\" class=\\"page-item\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"page-item\\"><a data-v-e895cfd1=\\"\\" class=\\"page-link\\" href=\\"javascript:void(0)\\">5</a></div>
+    </li>
+    <li data-v-e895cfd1=\\"\\" class=\\"page-item\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"page-item\\"><a data-v-e895cfd1=\\"\\" class=\\"page-link\\" href=\\"javascript:void(0)\\">6</a></div>
+    </li>
+    <li data-v-e895cfd1=\\"\\" class=\\"page-item\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"page-item\\"><a data-v-e895cfd1=\\"\\" class=\\"page-link\\" href=\\"javascript:void(0)\\">7</a></div>
+    </li>
+    <li data-v-e895cfd1=\\"\\" class=\\"page-item\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"page-item\\"><a data-v-e895cfd1=\\"\\" class=\\"page-link\\" href=\\"javascript:void(0)\\">8</a></div>
+    </li>
+    <li data-v-e895cfd1=\\"\\" class=\\"page-item\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"page-item\\"><a data-v-e895cfd1=\\"\\" class=\\"page-link\\" href=\\"javascript:void(0)\\">9</a></div>
+    </li>
+    <li data-v-e895cfd1=\\"\\" class=\\"page-item\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"page-item\\"><a data-v-e895cfd1=\\"\\" class=\\"page-link\\" href=\\"javascript:void(0)\\">10</a></div>
+    </li>
+  </ul>
+</div>"
+`;

@@ -1,0 +1,13 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App > mounts without error 1`] = `
+"<div data-v-7a7a37b1=\\"\\" class=\\"app v-100 h-100\\">
+  <div data-v-7a7a37b1=\\"\\" class=\\"panel\\">
+    <h1>Todos</h1>
+    <div data-v-e895cfd1=\\"\\">
+      <div data-v-e895cfd1=\\"\\" class=\\"list-group\\"></div>
+      <ul data-v-e895cfd1=\\"\\" class=\\"pagination mt-4\\"></ul>
+    </div><a href=\\"/new\\" class=\\"btn btn-secondary\\" role=\\"button\\">New</a>
+  </div>
+</div>"
+`;

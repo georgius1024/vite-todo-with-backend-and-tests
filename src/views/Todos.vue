@@ -1,7 +1,6 @@
 <script setup>
 import TodosList from "../components/TodosList.vue";
 import { useTodosStore } from "../stores/todos";
-
 const todos = useTodosStore();
 </script>
 
